@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["4HA4G3HLUF.com.hana.tongdok.hanaTongdok20"],
+        "components": [
+          { "/": "/hana-tongdok-2.0/join", "comment": "하나통독 통독방 초대" },
+          { "/": "/hana-tongdok-2.0/join/*", "comment": "하나통독 통독방 초대" }
+        ]
+      }
+    ]
+  }
+}

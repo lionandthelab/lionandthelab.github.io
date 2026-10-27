@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hana.tongdok.hana_tongdok_2_0",
+      "sha256_cert_fingerprints": [
+        "56:1D:82:1E:FA:50:F2:7A:56:FF:EF:D2:A4:30:8E:4D:61:3B:3C:42:4B:7A:85:B0:C7:36:D4:DA:D2:4C:CB:02"
+      ]
+    }
+  }
+]
